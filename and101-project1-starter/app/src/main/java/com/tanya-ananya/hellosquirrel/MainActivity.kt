@@ -1,9 +1,6 @@
-package com.driuft.hellosquirrel
+package com.`tanya-ananya`.hellosquirrel
 
-import android.os.Build
 import android.os.Bundle
-import android.view.WindowInsets
-import android.view.WindowManager
 import android.widget.ImageView
 import android.widget.TextView
 import androidx.appcompat.app.AppCompatActivity
@@ -35,7 +32,7 @@ class MainActivity : AppCompatActivity() {
     }
 
     private fun configureImage() {
-        profileImage.setImageDrawable(AppCompatResources.getDrawable(this, R.drawable.ic_launcher_foreground))
+        profileImage.setImageDrawable(AppCompatResources.getDrawable(this, R.drawable.avatar_14))
     }
 
     private fun configureName() {
