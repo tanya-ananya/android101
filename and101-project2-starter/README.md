@@ -27,7 +27,8 @@ The following REQUIRED features are completed:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Demo' width='' alt='Video Demo' />
+<img src='[http://i.imgur.com/link/to/your/gif/file.gif](https://imgur.com/a/qwAueZ0)' title='Video Demo' width='' alt='Video Demo' />
+[Link in case the above doesn't work](https://imgur.com/a/qwAueZ0)
 
 GIF created with **Imgur & In-App Recording with Android Studio**
 
