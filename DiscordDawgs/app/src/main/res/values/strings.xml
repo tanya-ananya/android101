@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">DiscordDawgs</string>
+    <string name="channel_name">#  treat-discussions</string>
+
+    <string name="user_one">Benny</string>
+    <string name="user_two">Luna</string>
+    <string name="user_three">Chase</string>
+    <string name="user_four">Charlotte</string>
+
+    <string name="text_one">What\'s the best dog food brand?</string>
+    <string name="text_two">It\'s Purina</string>
+    <string name="text_three">No, it\'s Royal Canine</string>
+    <string name="text_four">I think Blue Buffalo is better</string>
+    <string name="text_five">Alright, I\'ll try all of them!</string>
+    <string name="text_six">I still prefer human food though</string>
+    <string name="text_seven">Yes! Especially steak 🥩</string>
+    <string name="text_eight">And chicken too 🍗</string>
+    <string name="text_nine">Don\'t forget about turkey</string>
+</resources>
