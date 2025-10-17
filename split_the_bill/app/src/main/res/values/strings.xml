@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">split_the_bill</string>
+    <string name="title">Split the Bill!</string>
+    <string name="dummy_text">Total Bill Amount</string>
+    <string name="bill">Enter your bill total</string>
+    <string name="num_people">Enter the number of guests</string>
+    <string name="divide">Split!</string>
+    <string name="amount_owed">Each person owes:\n$%.2f</string>
+    <string name="main_text">Use Split the Bill! to easily find how much everyone in your party owes! Enter your bill total and number of guests</string>
+</resources>

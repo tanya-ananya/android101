@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#424242"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="90dp"
+        android:background="#050505"
+        android:orientation="vertical"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="100dp"
+            android:layout_marginTop="30dp"
+            android:text="@string/title"
+            android:textColor="@color/white"
+            android:textSize="35sp"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="110dp"
+        android:gravity="center_horizontal"
+        android:text="@string/main_text"
+        android:textColor="@color/white"
+        android:layout_marginStart="10dp"
+        android:layout_marginEnd="10dp"
+        android:lineHeight="32sp"
+        android:textSize="23sp" >
+    </TextView>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="24dp"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        android:layout_marginTop="240dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginEnd="20dp"
+        android:gravity="center">
+
+        <EditText
+            android:id="@+id/bill_total"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/bill"
+            android:inputType="numberDecimal"
+            android:backgroundTint="@color/white"
+            android:textColor="@color/white"
+            android:textSize="20sp"
+            android:textColorHint="#DFDFDF" />
+
+        <EditText
+            android:id="@+id/number_of_people"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/num_people"
+            android:inputType="number"
+            android:layout_marginTop="12dp"
+            android:backgroundTint="@color/white"
+            android:textColor="@color/white"
+            android:textSize="20sp"
+            android:textColorHint="#DFDFDF" />
+
+        <Button
+            android:id="@+id/divideButton"
+            android:layout_width="505dp"
+            android:layout_height="wrap_content"
+            android:text="@string/divide"
+            android:textSize="30sp"
+            android:layout_marginTop="16dp"
+            android:backgroundTint="#4E0000"
+            android:textColor="@color/white" />
+
+        <TextView
+            android:id="@+id/resultText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="32sp"
+            android:layout_marginTop="24dp"
+            android:text="@string/amount_owed"
+            android:lineHeight="50sp"
+            android:gravity="center"
+            android:textColor="@color/white" />
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
