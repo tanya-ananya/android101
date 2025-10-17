@@ -1,14 +1,14 @@
-# AND101 Project 3 - AnimalApps
+# AND101 Project 4 - CodeMath
 
 Submitted by: **Taaruni Ananya**
 
-Time spent: **3** hours spent in total
+Time spent: **2** hours spent in total
 
 ## Summary
 
-**DiscordDawgs** is an android app that was riddle with some pretty nasty Kotlin bugs.  With those gone, it's a collection of widgets for a variety of purposes!  It is made for dogs to discuss various topics.
+**Split the Bill!** is an android app that **fill in this description**
 
-If I had to describe this project in three (3) emojis, they would be: **🐕🐩🥩**
+If I had to describe this project in three (3) emojis, they would be: **➗🌮🧑‍🍳**
 
 ## Application Features
 
@@ -16,40 +16,32 @@ If I had to describe this project in three (3) emojis, they would be: **🐕🐩
 
 The following REQUIRED features are completed:
 
-- [x] Pick an app screenshot to duplicate
-  - Be sure to add the screenshot to "Chosen Screenshot" below.
-- [x] Create a runnable app that displays an Animal Version of your chosen screenshot
-- [x] Layout uses one (1) or more ConstraintLayout
-- [x] Layout uses one (1) or more ImageView
-- [x] Layout uses three (3) or more TextViews
+- [x] At least one (1) user input
+- [x] At least one (1) interactive View
+- [x] At least one (1) output of a calculation based on the user input
 
 The following STRETCH features are implemented:
 
-- [x] Create a custom-shape Button using Shape Drawables
-- [ ] Customize the text fonts by creating new Font Resources
-- [ ] Add Tooltips to your Views to help users understand how to navigate the UI
-- [ ] Create a second layout, this time for an original, personal app idea
+- [ ] Implement ViewBinding to reduce boilerplate code and increase efficiency
+- [ ] Add at least one (1) additional functionality
 
 The following EXTRA features are implemented:
 
 - [ ] List anything else that you added to improve the app!
 
-## Chosen Screenshot
-
-I have chosen to duplicate the following layout from the **Discord** app:
-
-<img width="175" height="612" alt="image" src="https://github.com/user-attachments/assets/927d9ee3-6d17-4925-bc2c-1e91f251a09f" />
-
-
 ## Video Demo
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='[http://i.imgur.com/link/to/your/gif/file.gif](https://imgur.com/a/Apjma5s)' title='Video Demo' width='' alt='Video Demo' />
-
-[Link, in case the above doesn't work](https://imgur.com/a/Apjma5s)
+<img src='[http://i.imgur.com/link/to/your/gif/file.gif](https://imgur.com/a/h2W3ij0)' title='Video Demo' width='' alt='Video Demo' />
+[Link in case the above doesn't work:](https://imgur.com/a/h2W3ij0)
 
 GIF created with **Imgur**
+
+<!-- Recommended tools:
+- [Kap](https://getkap.co/) for macOS
+- [ScreenToGif](https://www.screentogif.com/) for Windows
+- [peek](https://github.com/phw/peek) for Linux. -->
 
 ## Notes
 
