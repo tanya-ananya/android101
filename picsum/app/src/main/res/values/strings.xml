@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">picsum</string>
+    <string name="image_info">Author &amp; ID</string>
+    <string name="button_text">Get a random picture</string>
+</resources>
